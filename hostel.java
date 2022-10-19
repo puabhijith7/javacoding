@@ -86,12 +86,12 @@ public class hostel {
             b.setPhone(np);
         }
         System.out.println("the student details");
-        System.out.println(b.getStudentid());
-        System.out.println(b.getName());
-        System.out.println(b.getRoomNumber());
-        System.out.println(b.getGender());
-        System.out.println(b.getPhone());
-        System.out.println(b.getHostelName());
+        System.out.print(" "+b.getStudentid());
+        System.out.print(" "+b.getName());
+        System.out.print(" "+b.getRoomNumber());
+        System.out.print(" "+b.getGender());
+        System.out.print(" "+b.getPhone());
+        System.out.print(" "+b.getHostelName());
         
 
 
