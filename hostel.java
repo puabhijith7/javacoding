@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-
-
 class Student1
 {
     protected int studentid;
